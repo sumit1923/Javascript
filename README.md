@@ -1,2 +1,2 @@
-# React
+# Javascript
 First and all
